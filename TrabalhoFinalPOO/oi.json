@@ -1,0 +1,166 @@
+{
+"fornecedores": [
+  {
+    "cod": 1,
+    "nome": "Stark Industries",
+    "fundacao": "05/05/2005",
+    "area": "EMERGENTE"
+  },
+  {
+    "cod": 4,
+    "nome": "ACME Corp.",
+    "fundacao": "03/03/1993",
+    "area": "EMERGENTE"
+  },
+  {
+    "cod": 5,
+    "nome": "Wayne Enterprises",
+    "fundacao": "04/04/1984",
+    "area": "EMERGENTE"
+  },
+  {
+    "cod": 13121,
+    "nome": "ACMELimitado",
+    "fundacao": "12/12/2022",
+    "area": "ALIMENTOS"
+  }
+],
+"compradores": [
+  {
+    "cod": 22,
+    "nome": "Coyote",
+    "pais": "Estados Unidos da America",
+    "email": "coyote@toons.com"
+  },
+  {
+    "cod": 44,
+    "nome": "Alianca rebelde",
+    "pais": "Marrocos",
+    "email": "rebelally@email.com"
+  },
+  {
+    "cod": 2424,
+    "nome": "COIOTESIlva",
+    "pais": "Brasil",
+    "email": "tiadadd"
+  }
+],
+"tecnologias": [
+  {
+    "id": 1,
+    "modelo": "aknfafn",
+    "descricao": "dknladklnad",
+    "valorBase": 1000.0,
+    "peso": 1000.0,
+    "temperatura": 1000.0,
+    "fornecedor": 1
+  },
+  {
+    "id": 101,
+    "modelo": "100 T Anvil",
+    "descricao": "Bigorna de 100 toneladas",
+    "valorBase": 101.01,
+    "peso": 100.1,
+    "temperatura": 2000.2,
+    "fornecedor": 4
+  },
+  {
+    "id": 202,
+    "modelo": "FR armor",
+    "descricao": "Armadura resistente a fogo",
+    "valorBase": 202.02,
+    "peso": 200.2,
+    "temperatura": 6000.6,
+    "fornecedor": 5
+  },
+  {
+    "id": 303,
+    "modelo": "Jericho",
+    "descricao": "Missil anti-missil",
+    "valorBase": 303.03,
+    "peso": 300.3,
+    "temperatura": 3000.3,
+    "fornecedor": 1
+  },
+  {
+    "id": 444,
+    "modelo": "Bird trap",
+    "descricao": "Armadilha para passaros",
+    "valorBase": 444.44,
+    "peso": 404.4,
+    "temperatura": 400.4,
+    "fornecedor": 4
+  },
+  {
+    "id": 555,
+    "modelo": "Shark repellent",
+    "descricao": "Repelente de tubarao",
+    "valorBase": 555.55,
+    "peso": 505.5,
+    "temperatura": 50.5,
+    "fornecedor": 5
+  },
+  {
+    "id": 13121,
+    "modelo": "ACMEBanana",
+    "descricao": "adknadkjandlan",
+    "valorBase": 100.0,
+    "peso": 100.0,
+    "temperatura": 100.0,
+    "fornecedor": 13121
+  },
+  {
+    "id": 34334,
+    "modelo": "pedra",
+    "descricao": "shadhjshja",
+    "valorBase": 1200.0,
+    "peso": 80.5,
+    "temperatura": 10.0,
+    "fornecedor": 1
+  }
+],
+"vendas": [
+  {
+    "num": 24141,
+    "data": "12/12/23232",
+    "valorFinal": 110.00000000000001,
+    "comprador": 2424,
+    "tecnologia": 13121
+  },
+  {
+    "num": 8888,
+    "data": "08/08/2018",
+    "valorFinal": 687.493125,
+    "comprador": 44,
+    "tecnologia": 555
+  },
+  {
+    "num": 7777,
+    "data": "07/07/2017",
+    "valorFinal": 252.525,
+    "comprador": 44,
+    "tecnologia": 202
+  },
+  {
+    "num": 6666,
+    "data": "04/04/2024",
+    "valorFinal": 124.999875,
+    "comprador": 22,
+    "tecnologia": 101
+  },
+  {
+    "num": 5555,
+    "data": "01/01/2021",
+    "valorFinal": 371.21174999999994,
+    "comprador": 44,
+    "tecnologia": 303
+  },
+  {
+    "num": 3333,
+    "data": "03/03/2023",
+    "valorFinal": 555.55,
+    "comprador": 22,
+    "tecnologia": 444
+  }
+]
+}
